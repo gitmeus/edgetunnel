@@ -1,7 +1,7 @@
-arch.ns.cloudflare.com
-barbara.ns.cloudflare.com
-eleanor.ns.cloudflare.com
-louis.ns.cloudflare.com
+arch.ns.cloudflare.com#CF自家服务器
+barbara.ns.cloudflare.com#CF自家服务器
+eleanor.ns.cloudflare.com#CF自家服务器
+louis.ns.cloudflare.com#CF自家服务器
 shopify.com
 time.is
 icook.hk
