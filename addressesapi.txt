@@ -1,3 +1,7 @@
+arch.ns.cloudflare.com
+barbara.ns.cloudflare.com
+eleanor.ns.cloudflare.com
+louis.ns.cloudflare.com
 shopify.com
 time.is
 icook.hk
